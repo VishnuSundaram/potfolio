@@ -1,0 +1,29 @@
+.limks {
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.links:hover {
+    background-color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+p{
+    font-size:30px;
+}
